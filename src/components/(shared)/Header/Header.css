@@ -1,0 +1,42 @@
+.nav-item {
+  background: linear-gradient(117.42deg, #dbfeff -8.66%, #ffffff 89.98%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+.nav-item:hover,
+.nav-item > a.active {
+  background: linear-gradient(117.42deg, #94f5f7 -8.66%, #B6EBFE 89.98%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+.nav-item > a::after,
+.nav-item > a.active::after {
+  position: relative;
+  content: "";
+  display: block;
+  margin: auto;
+  height: 3px;
+  width: 0;
+  top: 3px;
+  background: transparent;
+  transition: all 0.3s;
+}
+
+/* Navbar List Items Hover*/
+.nav-item > a:hover::after,
+.nav-item > a.active::after {
+  width: 100%;
+  background: linear-gradient(90deg, #90f5f6 0%, #30ebee 100%);
+}
+
+.menu :where(li:not(.menu-title):not(:empty)) > :where(:not(ul).active), .menu :where(li:not(.menu-title):not(:empty)) > :where(*:not(ul):active) {
+  background-color: #e2e3e9 !important;
+  color: #585353 !important;
+  font-weight: bold;
+}

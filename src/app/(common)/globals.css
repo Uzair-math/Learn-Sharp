@@ -1,0 +1,218 @@
+/* Google Font */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: "Poppins", sans-serif;
+    scroll-behavior: smooth;
+  }
+}
+
+/* ===== Scrollbar CSS Start ===== */
+/* Firefox */
+* {
+  scrollbar-width: auto;
+  scrollbar-color: #949ba2 #cbd1d6;
+  /* border: 2px solid red; */
+}
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #e3e6e8;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: #cbd1d6;
+  background: linear-gradient(90deg, #02aaad 0%, #01b1b4 61%, #027f81 100%);
+  border-radius: 10px;
+  transition: all 0.3s;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: #cbd1d6;
+  background: linear-gradient(90deg, #00878a 0%, #047779 61%, #06acae 100%);
+}
+/* ===== Scrollbar CSS End ===== */
+
+/* Subscribe Button */
+.subscribe-btn {
+  padding-block: 14px;
+}
+
+/* Banner Title */
+.banner-title {
+  font-weight: 800;
+  font-size: 60px;
+  line-height: 80px;
+  color: #fff;
+}
+
+.banner-highlighted-text {
+  background: linear-gradient(
+    99.45deg,
+    #1dfbff -9.1%,
+    #a0feff 21.61%,
+    #94eeff 55.69%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+/* Banner Description */
+.banner-description {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: justify;
+  background: linear-gradient(117.42deg, #80fdff -8.66%, #b6ebfe 89.98%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+/* Common Banner Description */
+.common-banner-description {
+  background: linear-gradient(117.42deg, #70fdff -8.66%, #b6ebfe 89.98%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+/* Custom Border */
+.custom-border {
+  border: 5px solid;
+  border-image-source: linear-gradient(
+    99.45deg,
+    #027f81 -9.1%,
+    #fbd0fe 21.61%,
+    #aaf1fe 55.69%
+  );
+}
+
+/* Custom Text Color */
+.custom-text {
+  text-align: justify;
+  background: linear-gradient(117.42deg, #68fcff -8.66%, #b6ebfe 89.98%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+/* Content Title */
+.content-title {
+  font-weight: 800;
+  font-size: 32px;
+  line-height: 66px;
+  color: #4d4747;
+}
+
+/* Content Description */
+.content-description {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  color: #757575;
+}
+
+/* Custom Card Background */
+.custom-card-img-bg {
+  background: linear-gradient(
+    90deg,
+    rgba(126, 144, 254, 0.1) 0%,
+    rgba(152, 115, 255, 0.1) 100%
+  );
+}
+
+/* Custom Card Box Shadow */
+.custom-box-shadow {
+  box-shadow: 0 0 8px 3px rgba(0 0 0 / 0.1);
+  transition: all 0.3s;
+}
+
+.custom-box-shadow:hover {
+  box-shadow: 0 0 8px 6px rgba(0 0 0 / 0.1);
+  transform: translateY(-5px);
+  cursor: pointer;
+}
+
+.box-shadow-custom {
+  box-shadow: 0 0 8px 3px rgba(0 0 0 / 0.1);
+}
+
+.navbar-box-shadow {
+  box-shadow: 0 0 8px 6px rgba(0 0 0 / 0.1);
+}
+
+/* Readonly Input Field Design */
+.input[readonly] {
+  background-color: #f8f8f8;
+}
+
+.input[readonly]:focus {
+  outline: none;
+  border: 1px solid lightgray;
+  box-shadow: none;
+  cursor: auto;
+}
+
+.absolute.top-0.left-0,
+.absolute.top-0.right-0 {
+  backdrop-filter: blur(2px);
+}
+
+/* React Responsive Carousel Design Update */
+.carousel {
+  justify-content: center;
+}
+
+/* Set Color to Gr Icons */
+.gr-icon path {
+  stroke: currentColor;
+}
+
+[type='checkbox']:checked {
+  background-image: url("data:image/svg+xml,%3csvg aria-hidden='true' xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 16 12'%3e %3cpath stroke='white' stroke-linecap='round' stroke-linejoin='round' stroke-width='3' d='M1 5.917 5.724 10.5 15 1.5'/%3e %3c/svg%3e") !important;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 767px) {
+  /* Banner Title */
+  .banner-title {
+    font-size: 36px;
+    line-height: 48px;
+    text-align: center;
+  }
+
+  /* Banner Description */
+  .banner-description {
+    font-size: 17px;
+    line-height: 24px;
+    text-align: center;
+  }
+
+  /* Content Title */
+  .content-title {
+    font-size: 28px;
+    line-height: 40px;
+  }
+
+  /* Content Description */
+  .content-description {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}

@@ -1,0 +1,1113 @@
+[
+    {
+        "id": "EM1",
+        "name": "Alice",
+        "students": 55,
+        "ratings": 4.5,
+        "age": 30,
+        "education": "Master's in Mathematics",
+        "image_url": "https://media.licdn.com/dms/image/C5103AQGqMxmTnDistA/profile-displayphoto-shrink_800_800/0/1517450971959?e=2147483647&v=beta&t=gN5B4mt6wPb3Uz11Rtnu3nTzPkfkBX_ghZxhE4G5I3Y",
+        "education_qualification": [
+            {
+                "degree": "Master's in Mathematics",
+                "institution": "University of Dhaka",
+                "year_completed": 2015,
+                "subjects": [
+                    "Mathematics",
+                    "Advanced Calculus",
+                    "Linear Algebra"
+                ]
+            },
+            {
+                "degree": "Bachelor's in Education",
+                "institution": "Teachers College",
+                "year_completed": 2013,
+                "subjects": [
+                    "Teaching Methodologies",
+                    "Educational Psychology"
+                ]
+            },
+            {
+                "degree": "HSC",
+                "institution": "Dhanmondi College",
+                "year_completed": 2011,
+                "subjects": [
+                    "Science",
+                    "Mathematics"
+                ]
+            }
+        ],
+        "tuition_info": {
+            "expected_salary": "6000 Tk/Month",
+            "current_status": "Available",
+            "days_per_week": [
+                "1 Day/Week",
+                "2 Days/Week",
+                "3 Days/Week",
+                "4 Days/Week",
+                "5 Days/Week"
+            ],
+            "preferred_tuition_style": [
+                "Private Tuition",
+                "Group Tuition",
+                "Online Tuition"
+            ],
+            "place_of_learning": "Home Visit",
+            "extra_facilities": [
+                "Phone Help"
+            ],
+            "preferred_medium_of_instruction": "",
+            "preferred_class": [
+                "Class 6",
+                "Class 7",
+                "Class 8",
+                "Class 9",
+                "SSC"
+            ],
+            "preferred_subjects": [
+                "Math",
+                "Maths",
+                "Science",
+                "Computer",
+                "Physics",
+                "Chemistry",
+                "General Maths",
+                "General Science",
+                "ICT",
+                "Higher Maths",
+                "Statistics"
+            ],
+            "preferred_time": [
+                "Morning",
+                "Afternoon",
+                "Evening",
+                "After Magrib",
+                "Night"
+            ],
+            "preferred_areas_to_teach": [
+                "Dhaka",
+                "Asad Gate",
+                "Baily Road",
+                "Bijoy Sarani",
+                "Dhanmondi",
+                "Elephant Road",
+                "Kalabagan",
+                "Lalmatia",
+                "Mohammadpur",
+                "Panthapath",
+                "Rayer Bazar",
+                "Sankar",
+                "Zigatola",
+                "Easkaton",
+                "Adabor (Mohammadpur)"
+            ]
+        },
+        "contact": {
+            "email": "alice@example.com",
+            "phone": "+1234567890"
+        },
+        "experience": "5 years of teaching experience in various schools and tutoring centers.",
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "additional_info": "Passionate about making math fun and accessible to all students.",
+        "area_covered": [
+            "Dhanmondi",
+            "Gulshan",
+            "Banani"
+        ],
+        "location": {
+            "latitude": 23.746466,
+            "longitude": 90.376015,
+            "address": "123 Main Street, Dhanmondi, Dhaka, Bangladesh"
+        }
+    },
+    {
+        "id": "EM2",
+        "name": "Bob",
+        "age": 28,
+        "students": 55,
+        "ratings": 4.5,
+        "education": "Bachelor's in Science",
+        "image_url": "https://media.licdn.com/dms/image/D5603AQH1GcRp62fRgQ/profile-displayphoto-shrink_800_800/0/1684670368295?e=2147483647&v=beta&t=mXeva_qpbz8i5vUwFtGGQv4nDObNHinOm8jE6MdK9z8",
+        "education_qualification": [
+            {
+                "degree": "Bachelor's in Science",
+                "institution": "University of Science and Technology",
+                "year_completed": 2014,
+                "subjects": [
+                    "Biology",
+                    "Chemistry",
+                    "Physics"
+                ]
+            },
+            {
+                "degree": "SSC",
+                "institution": "Mirpur School",
+                "year_completed": 2010,
+                "subjects": [
+                    "Science",
+                    "Mathematics"
+                ]
+            }
+        ],
+        "tuition_info": {
+            "expected_salary": "6000 Tk/Month",
+            "current_status": "Available",
+            "days_per_week": [
+                "1 Day/Week",
+                "2 Days/Week",
+                "3 Days/Week",
+                "4 Days/Week",
+                "5 Days/Week"
+            ],
+            "preferred_tuition_style": [
+                "Private Tuition",
+                "Group Tuition",
+                "Online Tuition"
+            ],
+            "place_of_learning": "Home Visit",
+            "extra_facilities": [
+                "Phone Help"
+            ],
+            "preferred_medium_of_instruction": "",
+            "preferred_class": [
+                "Class 6",
+                "Class 7",
+                "Class 8",
+                "Class 9",
+                "SSC"
+            ],
+            "preferred_subjects": [
+                "Math",
+                "Maths",
+                "Science",
+                "Computer",
+                "Physics",
+                "Chemistry",
+                "General Maths",
+                "General Science",
+                "ICT",
+                "Higher Maths",
+                "Statistics"
+            ],
+            "preferred_time": [
+                "Morning",
+                "Afternoon",
+                "Evening",
+                "After Magrib",
+                "Night"
+            ],
+            "preferred_areas_to_teach": [
+                "Dhaka",
+                "Uttara",
+                "Mirpur"
+            ]
+        },
+        "contact": {
+            "email": "bob@example.com",
+            "phone": "+9876543210"
+        },
+        "experience": "3 years of experience as a private tutor, specializing in biology and chemistry.",
+        "languages_spoken": [
+            "English"
+        ],
+        "additional_info": "Believes in hands-on learning and real-world applications of scientific concepts.",
+        "area_covered": [
+            "Uttara",
+            "Mirpur"
+        ],
+        "location": {
+            "latitude": 23.874223,
+            "longitude": 90.382183,
+            "address": "456 Elm Avenue, Uttara, Dhaka, Bangladesh"
+        }
+    },
+    {
+        "id": "EM3",
+        "name": "Catherine",
+        "students": 80,
+        "ratings": 4.5,
+        "age": 25,
+        "education": "Bachelor's in English Literature",
+        "image_url": "https://media.licdn.com/dms/image/C5603AQFy44uP0j87Zg/profile-displayphoto-shrink_800_800/0/1595848090280?e=2147483647&v=beta&t=BVmUay7B7Awa1oeKVDdNghpXF4T8NKXHMtt--DRMDWU",
+        "education_qualification": [
+            {
+                "degree": "Bachelor's in English Literature",
+                "institution": "University of Dhaka",
+                "year_completed": 2017,
+                "subjects": [
+                    "English Literature",
+                    "Writing and Composition",
+                    "Poetry"
+                ]
+            },
+            {
+                "degree": "HSC",
+                "institution": "Holy Cross College",
+                "year_completed": 2013,
+                "subjects": [
+                    "English",
+                    "History"
+                ]
+            }
+        ],
+        "tuition_info": {
+            "expected_salary": "5000 Tk/Month",
+            "current_status": "Available",
+            "days_per_week": [
+                "2 Days/Week",
+                "3 Days/Week",
+                "4 Days/Week"
+            ],
+            "preferred_tuition_style": [
+                "Private Tuition",
+                "Group Tuition"
+            ],
+            "place_of_learning": "Home Visit",
+            "extra_facilities": [
+                "Email Support"
+            ],
+            "preferred_medium_of_instruction": "English",
+            "preferred_class": [
+                "Class 5",
+                "Class 6",
+                "Class 7",
+                "Class 8"
+            ],
+            "preferred_subjects": [
+                "English",
+                "Literature",
+                "Writing",
+                "Grammar"
+            ],
+            "preferred_time": [
+                "Afternoon",
+                "Evening"
+            ],
+            "preferred_areas_to_teach": [
+                "Dhanmondi",
+                "Mohammadpur",
+                "Farmgate",
+                "New Market"
+            ]
+        },
+        "contact": {
+            "email": "catherine@example.com",
+            "phone": "+1122334455"
+        },
+        "experience": "2 years of tutoring experience, focusing on language and writing skills.",
+        "languages_spoken": [
+            "English",
+            "Bengali"
+        ],
+        "additional_info": "Passionate about helping students develop strong communication skills.",
+        "area_covered": [
+            "Dhanmondi",
+            "Mohammadpur",
+            "Farmgate"
+        ],
+        "location": {
+            "latitude": 23.738497,
+            "longitude": 90.383803,
+            "address": "789 Park Road, Dhanmondi, Dhaka, Bangladesh"
+        }
+    },
+    {
+        "id": "EM4",
+        "name": "David",
+        "students": 20,
+        "ratings": 4,
+        "age": 32,
+        "education": "Master's in Economics",
+        "image_url": "https://media.licdn.com/dms/image/D4D03AQHixrTIgOSYzQ/profile-displayphoto-shrink_800_800/0/1687766753939?e=2147483647&v=beta&t=yz7h9G4jodacfntGlTgJGOl3djQcB5HVR2Fsk0_zGG4",
+        "education_qualification": [
+            {
+                "degree": "Master's in Economics",
+                "institution": "North South University",
+                "year_completed": 2014,
+                "subjects": [
+                    "Microeconomics",
+                    "Macroeconomics",
+                    "Econometrics"
+                ]
+            },
+            {
+                "degree": "Bachelor's in Business Administration",
+                "institution": "University of Dhaka",
+                "year_completed": 2012,
+                "subjects": [
+                    "Marketing",
+                    "Finance",
+                    "Management"
+                ]
+            },
+            {
+                "degree": "HSC",
+                "institution": "Adamjee Cantonment College",
+                "year_completed": 2010,
+                "subjects": [
+                    "Business Studies",
+                    "Accounting"
+                ]
+            }
+        ],
+        "tuition_info": {
+            "expected_salary": "7000 Tk/Month",
+            "current_status": "Not Available",
+            "days_per_week": [
+                "3 Days/Week",
+                "4 Days/Week",
+                "5 Days/Week"
+            ],
+            "preferred_tuition_style": [
+                "Private Tuition"
+            ],
+            "place_of_learning": "Online Tuition",
+            "extra_facilities": [
+                "Email Support",
+                "Online Resources"
+            ],
+            "preferred_medium_of_instruction": "English",
+            "preferred_class": [
+                "Class 9",
+                "Class 10",
+                "SSC",
+                "HSC"
+            ],
+            "preferred_subjects": [
+                "Economics",
+                "Business Studies",
+                "Accounting"
+            ],
+            "preferred_time": [
+                "Evening",
+                "Night"
+            ],
+            "preferred_areas_to_teach": [
+                "Online"
+            ]
+        },
+        "contact": {
+            "email": "david@example.com",
+            "phone": "+9988776655"
+        },
+        "experience": "6 years of teaching economics and business-related subjects.",
+        "languages_spoken": [
+            "English",
+            "Bengali"
+        ],
+        "additional_info": "Enjoys simplifying complex economic concepts for students.",
+        "area_covered": [
+            "Online"
+        ],
+        "location": {
+            "latitude": 0,
+            "longitude": 0,
+            "address": "Online"
+        }
+    },
+    {
+        "id": "EM5",
+        "name": "Ella",
+        "age": 27,
+        "students": 60,
+        "ratings": 4.2,
+        "education": "Bachelor's in Computer Science science",
+        "image_url": "https://media.licdn.com/dms/image/D5603AQHp9DT2vGOhTA/profile-displayphoto-shrink_800_800/0/1672907875574?e=2147483647&v=beta&t=dS3TwVWrRM_BgXiqvDvBQy4kk8OGyVbJcxD3UP_000Q",
+        "education_qualification": [
+            {
+                "degree": "Bachelor's in Computer Science",
+                "institution": "BRAC University",
+                "year_completed": 2016,
+                "subjects": [
+                    "Programming",
+                    "Data Structures",
+                    "Algorithms"
+                ]
+            },
+            {
+                "degree": "HSC",
+                "institution": "Dhaka College",
+                "year_completed": 2012,
+                "subjects": [
+                    "Computer Science",
+                    "Mathematics"
+                ]
+            }
+        ],
+        "tuition_info": {
+            "expected_salary": "5500 Tk/Month",
+            "current_status": "Available",
+            "days_per_week": [
+                "2 Days/Week",
+                "3 Days/Week",
+                "4 Days/Week"
+            ],
+            "preferred_tuition_style": [
+                "Private Tuition",
+                "Online Tuition"
+            ],
+            "place_of_learning": "Home Visit",
+            "extra_facilities": [
+                "Online Resources"
+            ],
+            "preferred_medium_of_instruction": "English",
+            "preferred_class": [
+                "Class 8",
+                "Class 9",
+                "Class 10",
+                "SSC"
+            ],
+            "preferred_subjects": [
+                "Computer Science",
+                "Programming",
+                "Data Structures"
+            ],
+            "preferred_time": [
+                "Afternoon",
+                "Evening"
+            ],
+            "preferred_areas_to_teach": [
+                "Gulshan",
+                "Banani",
+                "Baridhara"
+            ]
+        },
+        "contact": {
+            "email": "ella@example.com",
+            "phone": "+7766554433"
+        },
+        "experience": "4 years of tutoring computer science and programming.",
+        "languages_spoken": [
+            "English",
+            "Bengali"
+        ],
+        "additional_info": "Passionate about fostering a love for programming in students.",
+        "area_covered": [
+            "Gulshan",
+            "Banani",
+            "Baridhara"
+        ],
+        "location": {
+            "latitude": 23.793994,
+            "longitude": 90.415365,
+            "address": "234 Tech Road, Gulshan, Dhaka, Bangladesh"
+        }
+    },
+    {
+        "id": "EM6",
+        "name": "Fiona",
+        "students": 30,
+        "ratings": 3.9,
+        "age": 29,
+        "education": "Master's in History",
+        "image_url": "https://media.licdn.com/dms/image/D4D03AQGJUKWvhT9a0A/profile-displayphoto-shrink_800_800/0/1685562819572?e=2147483647&v=beta&t=xYstC94Y9bqO4d4BDZ1sAwv2021VG3Ce2LajJIZSIl8",
+        "education_qualification": [
+            {
+                "degree": "Master's in History",
+                "institution": "University of Dhaka",
+                "year_completed": 2015,
+                "subjects": [
+                    "World History",
+                    "Social Movements",
+                    "Cultural History"
+                ]
+            },
+            {
+                "degree": "Bachelor's in Liberal Arts",
+                "institution": "Independent University, Bangladesh",
+                "year_completed": 2012,
+                "subjects": [
+                    "History",
+                    "Sociology",
+                    "Anthropology"
+                ]
+            },
+            {
+                "degree": "HSC",
+                "institution": "Viqarunnisa Noon College",
+                "year_completed": 2010,
+                "subjects": [
+                    "History",
+                    "Bangla"
+                ]
+            }
+        ],
+        "tuition_info": {
+            "expected_salary": "5500 Tk/Month",
+            "current_status": "Available",
+            "days_per_week": [
+                "2 Days/Week",
+                "3 Days/Week",
+                "4 Days/Week"
+            ],
+            "preferred_tuition_style": [
+                "Private Tuition",
+                "Group Tuition"
+            ],
+            "place_of_learning": "Home Visit",
+            "extra_facilities": [
+                "Email Support"
+            ],
+            "preferred_medium_of_instruction": "English",
+            "preferred_class": [
+                "Class 7",
+                "Class 8",
+                "Class 9",
+                "Class 10"
+            ],
+            "preferred_subjects": [
+                "History",
+                "Social Studies",
+                "Humanities"
+            ],
+            "preferred_time": [
+                "Afternoon",
+                "Evening"
+            ],
+            "preferred_areas_to_teach": [
+                "Gulshan",
+                "Banani",
+                "Dhanmondi"
+            ]
+        },
+        "contact": {
+            "email": "fiona@example.com",
+            "phone": "+5544332211"
+        },
+        "experience": "3 years of teaching history and humanities subjects.",
+        "languages_spoken": [
+            "English",
+            "Bengali"
+        ],
+        "additional_info": "Passionate about exploring the past with students and sparking curiosity.",
+        "area_covered": [
+            "Gulshan",
+            "Banani",
+            "Dhanmondi"
+        ],
+        "location": {
+            "latitude": 23.790399,
+            "longitude": 90.405416,
+            "address": "345 Heritage Avenue, Gulshan, Dhaka, Bangladesh"
+        }
+    },
+    {
+        "id": "EM7",
+        "name": "George",
+        "students": 90,
+        "ratings": 4.8,
+        "age": 34,
+        "education": "Master's in Physics",
+        "image_url": "https://media.licdn.com/dms/image/D5603AQGRv_puQnaZAg/profile-displayphoto-shrink_800_800/0/1675106271909?e=2147483647&v=beta&t=SutSrBNexa9r9DxpAIL6QRwqJBu3yThnOOQtj2txeYw",
+        "education_qualification": [
+            {
+                "degree": "Master's in Physics",
+                "institution": "Bangladesh University of Engineering and Technology",
+                "year_completed": 2016,
+                "subjects": [
+                    "Classical Mechanics",
+                    "Quantum Physics",
+                    "Electromagnetism"
+                ]
+            },
+            {
+                "degree": "Bachelor's in Science",
+                "institution": "University of Dhaka",
+                "year_completed": 2014,
+                "subjects": [
+                    "Physics",
+                    "Mathematics"
+                ]
+            }
+        ],
+        "tuition_info": {
+            "expected_salary": "6500 Tk/Month",
+            "current_status": "Available",
+            "days_per_week": [
+                "2 Days/Week",
+                "3 Days/Week",
+                "4 Days/Week"
+            ],
+            "preferred_tuition_style": [
+                "Private Tuition"
+            ],
+            "place_of_learning": "Home Visit",
+            "extra_facilities": [
+                "Phone Help"
+            ],
+            "preferred_medium_of_instruction": "",
+            "preferred_class": [
+                "Class 9",
+                "Class 10",
+                "SSC"
+            ],
+            "preferred_subjects": [
+                "Physics",
+                "Mathematics"
+            ],
+            "preferred_time": [
+                "Afternoon",
+                "Evening"
+            ],
+            "preferred_areas_to_teach": [
+                "Mirpur",
+                "Mohammadpur",
+                "Uttara"
+            ]
+        },
+        "contact": {
+            "email": "george@example.com",
+            "phone": "+1122334455"
+        },
+        "experience": "7 years of teaching physics, with a focus on problem-solving skills.",
+        "languages_spoken": [
+            "English",
+            "Bengali"
+        ],
+        "additional_info": "Enjoys making complex physics concepts understandable for students.",
+        "area_covered": [
+            "Mirpur",
+            "Mohammadpur",
+            "Uttara"
+        ],
+        "location": {
+            "latitude": 23.822622,
+            "longitude": 90.365485,
+            "address": "567 Skyline Road, Mirpur, Dhaka, Bangladesh"
+        }
+    },
+    {
+        "id": "EM8",
+        "name": "Hannah",
+        "students": 42,
+        "ratings": 4.6,
+        "age": 26,
+        "education": "Bachelor's in Chemistry",
+        "image_url": "https://media.licdn.com/dms/image/D4E03AQFCyow19StxFw/profile-displayphoto-shrink_800_800/0/1687619499600?e=2147483647&v=beta&t=qTbO14io-nhyZSO1x8neYc2b5utxbq8DZD-YDQuezaI",
+        "education_qualification": [
+            {
+                "degree": "Bachelor's in Chemistry",
+                "institution": "University of Dhaka",
+                "year_completed": 2017,
+                "subjects": [
+                    "Organic Chemistry",
+                    "Inorganic Chemistry",
+                    "Physical Chemistry"
+                ]
+            },
+            {
+                "degree": "HSC",
+                "institution": "Dhanmondi College",
+                "year_completed": 2013,
+                "subjects": [
+                    "Science",
+                    "Chemistry"
+                ]
+            }
+        ],
+        "tuition_info": {
+            "expected_salary": "6000 Tk/Month",
+            "current_status": "Not Available",
+            "days_per_week": [
+                "1 Day/Week",
+                "2 Days/Week",
+                "3 Days/Week"
+            ],
+            "preferred_tuition_style": [
+                "Private Tuition",
+                "Group Tuition"
+            ],
+            "place_of_learning": "Home Visit",
+            "extra_facilities": [
+                "Phone Help"
+            ],
+            "preferred_medium_of_instruction": "English",
+            "preferred_class": [
+                "Class 8",
+                "Class 9",
+                "Class 10"
+            ],
+            "preferred_subjects": [
+                "Chemistry",
+                "Science"
+            ],
+            "preferred_time": [
+                "Afternoon",
+                "Evening"
+            ],
+            "preferred_areas_to_teach": [
+                "Gulshan",
+                "Banani",
+                "Dhanmondi"
+            ]
+        },
+        "contact": {
+            "email": "hannah@example.com",
+            "phone": "+5544332211"
+        },
+        "experience": "4 years of tutoring chemistry, focusing on practical demonstrations.",
+        "languages_spoken": [
+            "English",
+            "Bengali"
+        ],
+        "additional_info": "Believes in learning chemistry through hands-on experiments.",
+        "area_covered": [
+            "Gulshan",
+            "Banani",
+            "Dhanmondi"
+        ],
+        "location": {
+            "latitude": 23.762957,
+            "longitude": 90.358946,
+            "address": "678 Lab Street, Gulshan, Dhaka, Bangladesh"
+        }
+    },
+    {
+        "id": "EM9",
+        "name": "Isaac",
+        "students": 60,
+        "ratings": 4.8,
+        "age": 31,
+        "education": "Master's in Engineering",
+        "image_url": "https://media.licdn.com/dms/image/C4D03AQEW7wwxurqCig/profile-displayphoto-shrink_800_800/0/1582102207881?e=2147483647&v=beta&t=XLxEoF5mMyLVKZgH1ThugmfnQ1wBUL2COBqneXdwHUI",
+        "education_qualification": [
+            {
+                "degree": "Master's in Engineering",
+                "institution": "Bangladesh University of Engineering and Technology",
+                "year_completed": 2016,
+                "subjects": [
+                    "Mechanical Engineering",
+                    "Thermodynamics",
+                    "Fluid Mechanics"
+                ]
+            },
+            {
+                "degree": "Bachelor's in Engineering",
+                "institution": "Bangladesh University of Engineering and Technology",
+                "year_completed": 2014,
+                "subjects": [
+                    "Mechanical Engineering",
+                    "Mathematics"
+                ]
+            }
+        ],
+        "tuition_info": {
+            "expected_salary": "7000 Tk/Month",
+            "current_status": "Available",
+            "days_per_week": [
+                "2 Days/Week",
+                "3 Days/Week",
+                "4 Days/Week"
+            ],
+            "preferred_tuition_style": [
+                "Private Tuition"
+            ],
+            "place_of_learning": "Home Visit",
+            "extra_facilities": [
+                "Online Resources"
+            ],
+            "preferred_medium_of_instruction": "",
+            "preferred_class": [
+                "Class 9",
+                "Class 10",
+                "SSC"
+            ],
+            "preferred_subjects": [
+                "Physics",
+                "Mathematics",
+                "Mechanical Engineering"
+            ],
+            "preferred_time": [
+                "Afternoon",
+                "Evening"
+            ],
+            "preferred_areas_to_teach": [
+                "Uttara",
+                "Mirpur",
+                "Mohammadpur"
+            ]
+        },
+        "contact": {
+            "email": "isaac@example.com",
+            "phone": "+7788990011"
+        },
+        "experience": "6 years of teaching engineering and mathematics to aspiring engineers.",
+        "languages_spoken": [
+            "English",
+            "Bengali"
+        ],
+        "additional_info": "Passionate about nurturing the next generation of engineers.",
+        "area_covered": [
+            "Uttara",
+            "Mirpur",
+            "Mohammadpur"
+        ],
+        "location": {
+            "latitude": 23.866172,
+            "longitude": 90.389953,
+            "address": "789 Tech Avenue, Uttara, Dhaka, Bangladesh"
+        }
+    },
+    {
+        "id": "EM10",
+        "name": "Jack",
+        "age": 29,
+        "students": 60,
+        "ratings": 4.6,
+        "education": "Master's in Fine Arts",
+        "image_url": "https://media.licdn.com/dms/image/C5103AQHQdatemdl_Og/profile-displayphoto-shrink_800_800/0/1553230299376?e=2147483647&v=beta&t=1BJREiOqNdmUoiitPVsL8pDILjEaFc53xK6pgF7-nGM",
+        "education_qualification": [
+            {
+                "degree": "Master's in Fine Arts",
+                "institution": "University of Dhaka",
+                "year_completed": 2017,
+                "subjects": [
+                    "Painting",
+                    "Sculpture",
+                    "Art History"
+                ]
+            },
+            {
+                "degree": "Bachelor's in Fine Arts",
+                "institution": "University of Dhaka",
+                "year_completed": 2015,
+                "subjects": [
+                    "Fine Arts",
+                    "Design"
+                ]
+            }
+        ],
+        "tuition_info": {
+            "expected_salary": "5500 Tk/Month",
+            "current_status": "Available",
+            "days_per_week": [
+                "1 Day/Week",
+                "2 Days/Week",
+                "3 Days/Week"
+            ],
+            "preferred_tuition_style": [
+                "Private Tuition",
+                "Group Tuition"
+            ],
+            "place_of_learning": "Home Visit",
+            "extra_facilities": [
+                "Email Support"
+            ],
+            "preferred_medium_of_instruction": "English",
+            "preferred_class": [
+                "Class 7",
+                "Class 8",
+                "Class 9",
+                "Class 10"
+            ],
+            "preferred_subjects": [
+                "Fine Arts",
+                "Painting"
+            ],
+            "preferred_time": [
+                "Afternoon",
+                "Evening"
+            ],
+            "preferred_areas_to_teach": [
+                "Dhanmondi",
+                "Mohammadpur",
+                "Gulshan"
+            ]
+        },
+        "contact": {
+            "email": "jack@example.com",
+            "phone": "+1234567890"
+        },
+        "experience": "4 years of teaching art and inspiring creativity in students.",
+        "languages_spoken": [
+            "English",
+            "Bengali"
+        ],
+        "additional_info": "Believes that everyone has an artist within them waiting to be awakened.",
+        "area_covered": [
+            "Dhanmondi",
+            "Mohammadpur",
+            "Gulshan"
+        ],
+        "location": {
+            "latitude": 23.751789,
+            "longitude": 90.377854,
+            "address": "345 Canvas Street, Dhanmondi, Dhaka, Bangladesh"
+        }
+    },
+    {
+        "id": "EM11",
+        "name": "Kate",
+        "age": 28,
+        "students": 80,
+        "ratings": 4.6,
+        "education": "Bachelor's in Biology",
+        "image_url": "https://media.licdn.com/dms/image/D4E03AQFCyow19StxFw/profile-displayphoto-shrink_800_800/0/1687619499600?e=2147483647&v=beta&t=qTbO14io-nhyZSO1x8neYc2b5utxbq8DZD-YDQuezaI",
+        "education_qualification": [
+            {
+                "degree": "Bachelor's in Biology",
+                "institution": "University of Dhaka",
+                "year_completed": 2016,
+                "subjects": [
+                    "Biology",
+                    "Genetics",
+                    "Ecology"
+                ]
+            },
+            {
+                "degree": "HSC",
+                "institution": "Dhanmondi College",
+                "year_completed": 2012,
+                "subjects": [
+                    "Science",
+                    "Biology"
+                ]
+            }
+        ],
+        "tuition_info": {
+            "expected_salary": "6000 Tk/Month",
+            "current_status": "Not Available",
+            "days_per_week": [
+                "1 Day/Week",
+                "2 Days/Week",
+                "3 Days/Week"
+            ],
+            "preferred_tuition_style": [
+                "Private Tuition",
+                "Group Tuition"
+            ],
+            "place_of_learning": "Home Visit",
+            "extra_facilities": [
+                "Phone Help"
+            ],
+            "preferred_medium_of_instruction": "English",
+            "preferred_class": [
+                "Class 8",
+                "Class 9",
+                "Class 10"
+            ],
+            "preferred_subjects": [
+                "Biology",
+                "Science"
+            ],
+            "preferred_time": [
+                "Afternoon",
+                "Evening"
+            ],
+            "preferred_areas_to_teach": [
+                "Gulshan",
+                "Banani",
+                "Dhanmondi"
+            ]
+        },
+        "contact": {
+            "email": "kate@example.com",
+            "phone": "+9988776655"
+        },
+        "experience": "5 years of teaching biology and sharing a love for the natural world.",
+        "languages_spoken": [
+            "English",
+            "Bengali"
+        ],
+        "additional_info": "Fascinated by the wonders of life and eager to inspire future biologists.",
+        "area_covered": [
+            "Gulshan",
+            "Banani",
+            "Dhanmondi"
+        ],
+        "location": {
+            "latitude": 23.762075,
+            "longitude": 90.361986,
+            "address": "456 Nature Avenue, Gulshan, Dhaka, Bangladesh"
+        }
+    },
+    {
+        "id": "EM12",
+        "name": "Liam",
+        "age": 32,
+        "students": 20,
+        "ratings": 4.5,
+        "education": "Master's in Psychology",
+        "image_url": "https://media.licdn.com/dms/image/C5603AQGOEsnWCowldg/profile-displayphoto-shrink_800_800/0/1655311349718?e=2147483647&v=beta&t=uRuhYrmQ3UZoxbcFjfFD3PUYRrw3iZwhkXxlfZYh-2w",
+        "education_qualification": [
+            {
+                "degree": "Master's in Psychology",
+                "institution": "University of Dhaka",
+                "year_completed": 2014,
+                "subjects": [
+                    "Cognitive Psychology",
+                    "Social Psychology",
+                    "Psychological Counseling"
+                ]
+            },
+            {
+                "degree": "Bachelor's in Psychology",
+                "institution": "University of Dhaka",
+                "year_completed": 2012,
+                "subjects": [
+                    "Psychology",
+                    "Behavioral Science"
+                ]
+            }
+        ],
+        "tuition_info": {
+            "expected_salary": "7000 Tk/Month",
+            "current_status": "Available",
+            "days_per_week": [
+                "2 Days/Week",
+                "3 Days/Week",
+                "4 Days/Week"
+            ],
+            "preferred_tuition_style": [
+                "Private Tuition"
+            ],
+            "place_of_learning": "Home Visit",
+            "extra_facilities": [
+                "Online Resources"
+            ],
+            "preferred_medium_of_instruction": "",
+            "preferred_class": [
+                "Class 9",
+                "Class 10",
+                "SSC",
+                "HSC"
+            ],
+            "preferred_subjects": [
+                "Psychology",
+                "Behavioral Science"
+            ],
+            "preferred_time": [
+                "Evening",
+                "Night"
+            ],
+            "preferred_areas_to_teach": [
+                "Dhanmondi",
+                "Mohammadpur",
+                "Uttara"
+            ]
+        },
+        "contact": {
+            "email": "liam@example.com",
+            "phone": "+7788990011"
+        },
+        "experience": "7 years of teaching psychology and helping students understand the mind and behavior.",
+        "languages_spoken": [
+            "English",
+            "Bengali"
+        ],
+        "additional_info": "Passionate about promoting mental well-being and self-discovery.",
+        "area_covered": [
+            "Dhanmondi",
+            "Mohammadpur",
+            "Uttara"
+        ],
+        "location": {
+            "latitude": 23.741656,
+            "longitude": 90.370612,
+            "address": "789 Mind Lane, Dhanmondi, Dhaka, Bangladesh"
+        }
+    }
+]

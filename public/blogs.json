@@ -1,0 +1,42 @@
+[
+  {
+    "userName": "Alice Smith",
+    "userImgUrl": "https://i.ibb.co/CBM5sjx/image3.jpg",
+    "postDate": "2023-08-28",
+    "role": "student",
+    "postImgUrl": "https://i.ibb.co/K64Rv6p/what-is-currying.png",
+    "postDescription": "A career function is a well-defined professional path within an industry or field. It outlines the roles, responsibilities, and progression opportunities for individuals in a particular job or specialization. Career functions provide clarity and guidance for individuals seeking to advance their careers, helping them understand the skills, qualifications,"
+  },
+  {
+    "userName": "John Doe",
+    "userImgUrl": "https://i.ibb.co/CBM5sjx/image3.jpg",
+    "postDate": "2023-08-29",
+    "role": "Admin",
+    "postImgUrl": "https://i.ibb.co/bBjhRht/8r-Pml1-Lf-KKppm-gvb-SSo-Kzi-PC-RHo-F0-Cs-VKg.jpg",
+    "postDescription": " individuals in a particular job or specialization. Career functions provide clarity and guidance for individuals seeking to advance their careers, helping them understand the skills, qualifications, and experience required to excel in their chosen field. They play a crucial role in talent development, recruitment, and workforce planning for organizations, ensuring that employees can pursue meaningful and rewarding career trajectories."
+  },
+  {
+    "userName": "Eva Wilson",
+    "userImgUrl": "https://i.ibb.co/CBM5sjx/image3.jpg",
+    "postDate": "2023-08-30",
+    "role": "Instructors",
+    "postImgUrl": "https://i.ibb.co/K64Rv6p/what-is-currying.png",
+    "postDescription": "A career function is a well-defined professional path within an industry or field. It outlines the roles, responsibilities, and proexcel in their chosen field. They play a crucial role in talent development, recruitment, and workforce planning for organizations, ensuring that employees can pursue meaningful and rewarding career trajectories."
+  },
+  {
+    "userName": "Bob Johnson",
+    "userImgUrl": "https://i.ibb.co/CBM5sjx/image3.jpg",
+    "postDate": "2023-08-31",
+    "role": "student",
+    "postImgUrl": "https://i.ibb.co/K64Rv6p/what-is-currying.png",
+    "postDescription": " Career functions provide clarity and guidance for individuals seeking to advance their careers, helping them understand the skills, qualifications, and experience required to excel in their chosen field. They play a crucial role in talent development, recruitment, and workforce planning for organizations, ensuring that employees can pursue meaningful and rewarding career trajectories.."
+  },
+  {
+    "userName": "Admin User",
+    "userImgUrl": "https://i.ibb.co/CBM5sjx/image3.jpg",
+    "postDate": "2023-09-01",
+    "role": "Admin",
+    "postImgUrl": "https://i.ibb.co/K64Rv6p/what-is-currying.png",
+    "postDescription": "A career function is a well-defined professional path within an industry or field. It outlines the roles, responsibilities, and progression opportunities for individuals in a particular job or specialization. Career functions provide clarity and guiworkforce planning for organizations, ensuring that employees can pursue meaningful and rewarding career trajectories.."
+  }
+]

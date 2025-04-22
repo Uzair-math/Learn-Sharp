@@ -1,0 +1,43 @@
+[
+    {
+      "userName": "John Doe",
+      "userImgUrl": "https://i.ibb.co/CBM5sjx/image3.jpg",
+      "postDate": "2023-08-29",
+      "role": "admin",
+      "postImgUrl": "https://i.ibb.co/K64Rv6p/what-is-currying.png",
+      "postDescription": "This is an admin's post."
+    },
+    {
+      "userName": "Alice Smith",
+      "userImgUrl": "https://i.ibb.co/CBM5sjx/image3.jpg",
+      "postDate": "2023-08-28",
+      "role": "student",
+      "postImgUrl": "https://i.ibb.co/K64Rv6p/what-is-currying.png",
+      "postDescription": "I had a great day at school today!"
+    },
+    {
+      "userName": "Bob Johnson",
+      "userImgUrl": "https://i.ibb.co/CBM5sjx/image3.jpg",
+      "postDate": "2023-08-27",
+      "role": "instructor",
+      "postImgUrl": "https://i.ibb.co/K64Rv6p/what-is-currying.png",
+      "postDescription": "Today's lecture was on point."
+    },
+    {
+      "userName": "Eva Wilson",
+      "userImgUrl": "https://i.ibb.co/CBM5sjx/image3.jpg",
+      "postDate": "2023-08-26",
+      "role": "student",
+      "postImgUrl": "https://i.ibb.co/CBM5sjx/image3.jpg",
+      "postDescription": "Studying for finals is exhausting!"
+    },
+    {
+      "userName": "Admin User",
+      "userImgUrl": "https://i.ibb.co/CBM5sjx/image3.jpg",
+      "postDate": "2023-08-25",
+      "role": "admin",
+      "postImgUrl": "https://i.ibb.co/K64Rv6p/what-is-currying.png",
+      "postDescription": "Important announcement: Please check your emails."
+    }
+  ]
+  

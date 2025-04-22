@@ -1,0 +1,67 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+		"lib": [
+			"dom",
+			"dom.iterable",
+			"esnext"
+		],
+		"allowJs": true,
+		"skipLibCheck": true,
+		"strict": true,
+		"forceConsistentCasingInFileNames": true,
+		"noEmit": true,
+		"esModuleInterop": true,
+		"module": "esnext",
+		"moduleResolution": "bundler",
+		"resolveJsonModule": true,
+		"isolatedModules": true,
+		"jsx": "preserve",
+		"incremental": true,
+		"plugins": [
+			{
+				"name": "next"
+			}
+		],
+		"paths": {
+			"@/*": [
+				"./src/*"
+			]
+		}
+	},
+	"include": [
+		"next-env.d.ts",
+		"**/*.ts",
+		"**/*.tsx",
+		".next/types/**/*.ts",
+		"src/app/students/loading.jsx",
+		"src/app/tutors/loading.jsx",
+		"src/app/tutors/page.tsx",
+		"src/app/students/page.jsx",
+		"src/app/blog/Blogs.jsx",
+		"src/app/blogs/Blogs.jsx",
+		"src/app/blogs/BlogCard.jsx",
+		"src/app/tutor-request/page.jsx",
+		"src/app/blogs/post-blog/page.jsx",
+		"src/app/dashboard/tutor/add-a-tuition/page.jsx",
+		"src/app/dashboard/admin/manage-users/page.jsx",
+		"src/app/dashboard/admin/manage-tutor-requests/page.jsx",
+		"src/app/dashboard/admin/manage-tuitions/page.jsx",
+		"src/app/dashboard/tutor/add-a-tuition/page.jsx",
+		"src/app/tutors/TuitionsCard.jsx",
+		"src/app/dashboard/student/my-messages/page.jsx",
+		"src/app/api/jwt/route.js",
+		"src/app/dashboard/student/booked-tutors/page.jsx",
+		"src/app/dashboard/student/my-payments/page.jsx",
+		"src/app/dashboard/student/hired-tutors/page.jsx",
+		"src/app/dashboard/tutor/my-bookings/page.jsx",
+		"src/app/dashboard/tutor/my-students/page.jsx",
+		"src/app/dashboard/tutor/my-tuitions/page.jsx",
+		"src/app/dashboard/tutor/my-inbox/page.jsx",
+		"src/app/dashboard/student/payment-history-student/page.jsx",
+		"src/app/dashboard/tutor/payment-history-tutor/page.jsx"
+	],
+	"exclude": [
+		"node_modules"
+	]
+}
